@@ -11,8 +11,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Debjit-Dey?label=Follow&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn badge" />
-  <img src="https://img.shields.io/badge/Portfolio-Live-green?style=plastic&logo=google-chrome" alt="Portfolio" />
+  <a src= "https://www.linkedin.com/in/debjit-dey-981b2a1a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn badge" /><a/>
+  <a src ="http://debjitdey.lovestoblog.com/"><img src="https://img.shields.io/badge/Portfolio-Live-green?style=plastic&logo=google-chrome" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -76,7 +76,7 @@ Here are some of my featured projects that showcase my skills:
 
 <p align="center">
   <a href="https://github.com/Debjit-Dey"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-blue?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/debjit-dey"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/debjit-dey-981b2a1a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:debjitdeyofficial6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
