@@ -46,7 +46,7 @@ Check out my GitHub repositories for more cool projects! 🚀
 ## 🤝 Let's Connect
 
 - **GitHub**: [github.com/Debjit-Dey](https://github.com/Debjit-Dey)
-- **LinkedIn**: [linkedin.com/in/debjit-dey](https://www.linkedin.com/in/debjit-dey)
+- **LinkedIn**: [linkedin.com/in/debjit-dey](https://www.linkedin.com/in/debjit-dey-981b2a1a6/)
 - **Email**: debjitdeyofficial6@gmail.com
 
 I'm always open to collaboration, learning, and contributing to open-source projects. Let's create something amazing together! 💡
