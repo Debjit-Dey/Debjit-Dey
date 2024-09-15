@@ -11,8 +11,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Debjit-Dey?label=Follow&style=social" alt="GitHub followers" />
-  <a src= "https://www.linkedin.com/in/debjit-dey-981b2a1a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn badge" /><a/>
-  <a src ="http://debjitdey.lovestoblog.com/"><img src="https://img.shields.io/badge/Portfolio-Live-green?style=plastic&logo=google-chrome" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/debjit-dey-981b2a1a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn badge" /><a/>
+  <a href="http://debjitdey.lovestoblog.com/"><img src="https://img.shields.io/badge/Portfolio-Live-green?style=plastic&logo=google-chrome" alt="Portfolio" /></a>
 </p>
 
 ---
