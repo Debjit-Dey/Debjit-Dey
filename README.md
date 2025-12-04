@@ -1,110 +1,85 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=280&section=header&text=Debjit%20Dey&fontSize=80&fontColor=fff&animation=fadeIn&fontAlign=50&fontAlignY=30&desc=Architecting%20Scalable%20Systems&descAlign=50&descAlignY=55&descSize=25&stroke=000000&strokeWidth=0" width="100%" />
+<h1 align="center">👋 Hey, I'm Debjit Dey!</h1>
+<h3 align="center">Full-Stack Developer | Open Source Enthusiast | B.Tech CSE</h3>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Competitive+Programmer;Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-Expert-orange" alt="HTML badge" />
+  <img src="https://img.shields.io/badge/CSS-Tailwind%20CSS-blue" alt="CSS badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/React-Developer-blue" alt="React badge" />
+  <img src="https://img.shields.io/badge/Node.js-Full%20Stack-green" alt="Node.js badge" />
+</p>
 
-<div align="center">
-  <a href="https://debjitdey.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-earth&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/debjit-dey-981b2a1a6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Debjit-Dey" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:debjitdeyofficial6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Debjit-Dey?label=Follow&style=social" alt="GitHub followers" />
+  <a href="https://www.linkedin.com/in/debjit-dey-981b2a1a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn badge" /></a>
+  <a href="http://debjitdey.lovestoblog.com/"><img src="https://img.shields.io/badge/Portfolio-Live-green?style=plastic&logo=google-chrome" alt="Portfolio" /></a>
+</p>
 
-<br />
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### 🧑‍💻 About Me:
+- 🎓 3rd Year B.Tech CSE Student at **Guru Jambheshwar University of Science and Technology**
+- 🌐 I specialize in **Frontend** and **Backend** web development with a focus on creating interactive, scalable, and dynamic web applications.
+- 🏆 Certified by **Google**, **Microsoft**, and **Amazon** in Frontend Bootcamp.
+- 🎯 **Core Team Member** of GJUS&T Coder's Club, organizing hackathons, workshops, and coding competitions.
+- 🛠️ Constantly exploring and learning new tools and technologies!
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      
-## ⚡ About Me
-      
-> *"Talk is cheap. Show me the code."*
+---
 
-I am a **Full Stack Developer** and a B.Tech CSE student (2026) passionate about building robust web applications. I turn complex problems into elegant code.
+### 🚀 Tech Stack:
 
-* [cite_start]🔭 **Internships:** Former Frontend Dev @ **Tickyourlist** & Web Dev @ **Labmentix**[cite: 14, 21].
-* [cite_start]🏆 **Winner:** Secured **1st Position** in SIH Internal Hackathon 2025[cite: 63].
-* [cite_start]💻 **Stack:** MERN (MongoDB, Express, React, Node)[cite: 5].
-* 🌱 **Goals:** Mastering Advanced System Design & Cloud Computing.
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-</td>
-    <td width="40%" valign="center">
-      <div align="center">
-        <img src="https://media.giphy.com/media/dummy/giphy.gif" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
+---
 
-## 💻 The Arsenal
+### ✨ Projects:
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,postman,vercel,netlify,cpp,python,java&perline=12&theme=dark" />
-</div>
+Here are some of my featured projects that showcase my skills:
 
-<br/>
+- 🔗 **[Realtime Chat App](https://github.com/Debjit-Dey/Chat-app)**  
+  *Tech Stack: HTML, CSS, Node.js, Socket.io*  
+  A fully-functional real-time chat app with multiple-person connectivity, join/leave notifications, and more.
 
-## 📊 Analytics & Impact
+- 🔗 **[Task Management System](https://debjit-dey.github.io/Task-Management-System/)**  
+  *Tech Stack: HTML, CSS, JavaScript*  
+  A task management tool with drag-and-drop functionality, task categorization, and editing options.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debjit-Dey&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00BFFF" width="100%" />
-  
-  <br/><br/>
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Debjit-Dey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=8A2BE2" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debjit-Dey&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00BFFF&currStreakLabel=00BFFF" />
-      </td>
-    </tr>
-  </table>
+- 🔗 **[Disnep+ Hotstar Clone](https://debjit-dey.github.io/hotstar-clone/)**  
+  *Tech Stack: HTML, CSS, JavaScript*  
+  A UI clone of the popular streaming platform Disney+ Hotstar.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debjit-Dey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&langs_count=8" />
-</div>
+- 🔗 **[Amazon Clone](https://debjit-dey.github.io/Amazon-clone/)**  
+  *Tech Stack: HTML, CSS, JavaScript*  
+  A front-end clone of Amazon showcasing a responsive UI.
 
-<br/>
+---
 
-## 🚀 Featured Deployments
+### 🏆 Certifications & Achievements:
 
-| **PaisaPartner** 💸 | **Namaste Bugs** 🐞 |
-| :--- | :--- |
-| ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![Node](https://img.shields.io/badge/-Node-000?style=flat&logo=node.js) | ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express) ![Mongo](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb) |
-| [cite_start]A secure **Expense Management System** with JWT Auth & Real-time Visualization. [cite: 40] | [cite_start]A Jira-inspired **Project Management Tool** for task tracking & team flow. [cite: 46] |
-| [🔴 Live Demo](https://debjitdey.netlify.app) | [🔴 Live Demo](https://debjitdey.netlify.app) |
+- **NCC A Certificate Holder**  
+- **Google Frontend Bootcamp**  
+- **Amazon Frontend Bootcamp**  
+- **Microsoft Frontend Bootcamp**
 
-<br/>
+---
 
-<div align="center">
-  <h3>🏆 Trophy Case</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Debjit-Dey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
+### 🌐 Let's Connect:
 
-<br/>
+<p align="center">
+  <a href="https://github.com/Debjit-Dey"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-blue?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/debjit-dey-981b2a1a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:debjitdeyofficial6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=100&section=footer" width="100%" />
-  
-  <br />
-  
-  <a href="https://komarev.com/ghpvc/?username=Debjit-Dey&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Debjit-Dey&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views" />
-  </a>
-</div>
+---
+
+<p align="center">💡 "Curiosity, creativity, and code - that’s what fuels my passion!" 💡</p>
